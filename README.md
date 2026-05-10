@@ -9,7 +9,7 @@ python_version: '3.13'
 app_file: app.py
 pinned: false
 license: mit
-short_description: Fish classifier deployed with Streamlit and Tensorflow
+short_description: Fish classifier deployed with Gradio and Tensorflow
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
