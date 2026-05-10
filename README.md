@@ -15,7 +15,7 @@ short_description: Fish classifier deployed with Gradio and Tensorflow
 # Fish Classifier AI
 
 ## 🚀 Demo
-Live app: johntemitope-fish-classifier.hf.space
+Live app: https://johntemitope-fish-classifier.hf.space
 
 ## 📊 Model
 - CNN-based image classifier
