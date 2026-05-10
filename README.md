@@ -1,3 +1,22 @@
+# Fish Classifier AI
+
+## 🚀 Demo
+Live app: https://YOUR-SPACE.hf.space
+
+## 📊 Model
+- CNN-based image classifier
+- Trained on fish dataset
+
+## 🛠 Tech Stack
+- TensorFlow
+- Gradio
+- Hugging Face Spaces
+
+
+## 📦 Run locally
+pip install -r requirements.txt
+python app.py
+
 ---
 title: Fish Classifier
 emoji: ⚡
